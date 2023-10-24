@@ -1,0 +1,52 @@
+body {
+    font-family: Cascadia Code, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #33FFB5; 
+    padding: 20px;
+}
+
+header h1 {
+    color: white;
+    font-size: 24px;
+}
+
+.profile-section {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+}
+
+img {
+    max-width: 15%;
+    border-radius: 50%;
+}
+
+h2 {
+    color: #33FFB5;
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+h3 {
+    color: #33FFB5  ;
+    font-size: 20px;
+}
+
+
+footer {
+    background-color: #33FFB5;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    color: white;
+    font-size: 14px;
+}
